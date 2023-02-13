@@ -1,6 +1,6 @@
 title: Klavierunterricht in Oberföhring
 author:
-  name: Erna Mühbauer
+  name: Erna Mühbauer-Vagnini
   email: vagnini@t-online.de
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -56,7 +56,7 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: false
+website: https://bochinche.github.io/erna
+
 
 # A simple image gallery in Jekyll without plugins
-imagesurl: "/assets/gallery/fulls"
-thumbsurl: "/assets/gallery/thumbs"
