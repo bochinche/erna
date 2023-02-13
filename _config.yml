@@ -56,7 +56,7 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: false
-website: https://bochinche.github.io/erna
+site.baseurl: https://bochinche.github.io/erna
 
 
 # A simple image gallery in Jekyll without plugins

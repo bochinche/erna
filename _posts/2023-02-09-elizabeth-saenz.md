@@ -15,7 +15,7 @@ Elizabeth Sáenz MD, Paediatrician, MPHDC, MMCH
 Drug Control and Crime Prevention Officer
  
 Prevention, Treatment and Rehabilitation Section
-Drug Laboratory and Scientific Services Branch Branch
+Drug Laboratory and Scientific Services Branch
 United Nations Office on Drugs and Crime
 Viena, Austria
 
