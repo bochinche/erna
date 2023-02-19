@@ -20,10 +20,10 @@ United Nations Office on Drugs and Crime
 Viena, Austria
 
 ---
-![image](/assets/elizabeth-saenz-1.jpeg)
-![image](/assets/elizabeth-saenz-2.jpeg)
-![image](/assets/elizabeth-saenz-3.jpeg)
-![image](/assets/elizabeth-saenz-4.jpeg)
+![image]({{ site.baseurl }}/assets/elizabeth-saenz-1.jpeg)
+![image]({{ site.baseurl }}/assets/elizabeth-saenz-2.jpeg)
+![image]({{ site.baseurl }}/assets/elizabeth-saenz-3.jpeg)
+![image]({{ site.baseurl }}/assets/elizabeth-saenz-4.jpeg)
 
 ---
 

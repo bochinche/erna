@@ -23,7 +23,7 @@ Silvia Cabrelles realiza su labor pianistica y docente en diversas regiones de C
 
 ---
 
-![image](/assets/Silvia_Cabrelles.jpg)
+![image]({{ site.baseurl }}/assets/Silvia_Cabrelles.jpg)
 
 ---
 
